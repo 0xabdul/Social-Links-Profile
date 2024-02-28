@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to: 
 
-- See hover and focus states for all interactive elements on the page<br>
+- See hover and focus states for all interactive elements on the page<br><br>
 
 ## links ✅ <br>
 
