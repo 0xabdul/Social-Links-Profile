@@ -10,7 +10,6 @@ body{
     margin:0;
     height:100vh;
     background-color: hsl(0, 0%, 3%);
-    overflow-y: hidden;
 }
 .avatar-img img{
 height:5rem;
