@@ -82,7 +82,7 @@ h3{
     font-size:0.8rem;
     color:white;
 }
-@media (max-width:385px) {
+@media (max-width:355px) {
     .container{
         width:60vw;
     }
