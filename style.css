@@ -78,7 +78,7 @@ h3{
     font-size:0.8rem;
     color:white;
 }
-@media (max-width:305px) {
+@media (max-width:370px) {
     .container{
         width:60vw;
     }
