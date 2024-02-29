@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
 
 body{
     display: flex;
@@ -59,13 +59,13 @@ h1,h2,h3{
     text-align: center;
 }
 h1{
-    font-family:inter;
+  font-family: "Inter", sans-serif;
     font-weight:600;
     font-size:1.6rem;
     color:white;
 }
 h2{
-    font-family:inter;
+  font-family: "Inter", sans-serif;
     font-weight:700;
     font-size:0.9rem;
     position: relative;
@@ -73,7 +73,7 @@ h2{
     color:hsl(75, 94%, 57%);
 }
 h3{
-    font-family:inter;
+   font-family: "Inter", sans-serif;
     font-weight:500;
     font-size:0.8rem;
     color:white;
